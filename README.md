@@ -33,7 +33,7 @@ This dashboard was created to analyze a dataset of project management performanc
 
 Feel free to connect if you'd like to know more about this project or discuss how dashboards can transform your decision-making process!  
 
-![](Mangement .png)
+![](Mangement.png)
 
 ---
 
