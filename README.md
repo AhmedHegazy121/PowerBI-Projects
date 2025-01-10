@@ -3,7 +3,7 @@
 
 ### [🌟 Project Management Dashboard – Driving Success through Insights 🌟](https://www.linkedin.com/posts/hegazy-ahmed_projectmanagement-dataanalytics-dashboarddesign-activity-7283580562982756352-FDs8?utm_source=share&utm_medium=member_desktop)
 
-
+[Project Link](https://www.linkedin.com/posts/hegazy-ahmed_projectmanagement-dataanalytics-dashboarddesign-activity-7283580562982756352-FDs8?utm_source=share&utm_medium=member_desktop)
 
 This project management dashboard provides insights into the performance and progress of various projects. It is designed to facilitate communication, enhance decision-making, and track key performance metrics effectively.  
 
@@ -32,7 +32,7 @@ This project management dashboard provides insights into the performance and pro
 This dashboard was created to analyze a dataset of project management performance. It identifies potential risks, highlights project complexities, and tracks progress to ensure the success of each initiative.  
 
 Feel free to connect if you'd like to know more about this project or discuss how dashboards can transform your decision-making process!  
-![](Feet_mangment.PNG)
+![](Mangement.png)
 
 ---
 
