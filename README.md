@@ -32,7 +32,8 @@ This project management dashboard provides insights into the performance and pro
 This dashboard was created to analyze a dataset of project management performance. It identifies potential risks, highlights project complexities, and tracks progress to ensure the success of each initiative.  
 
 Feel free to connect if you'd like to know more about this project or discuss how dashboards can transform your decision-making process!  
-![](Mangement.png)
+
+![](Mangement .png)
 
 ---
 
