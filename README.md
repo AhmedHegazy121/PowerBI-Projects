@@ -1,5 +1,45 @@
 # PowerBI-Projects
 
+
+### [🌟 Project Management Dashboard – Driving Success through Insights 🌟](https://www.linkedin.com/posts/hegazy-ahmed_projectmanagement-dataanalytics-dashboarddesign-activity-7283580562982756352-FDs8?utm_source=share&utm_medium=member_desktop)
+
+
+
+This project management dashboard provides insights into the performance and progress of various projects. It is designed to facilitate communication, enhance decision-making, and track key performance metrics effectively.  
+
+### Key Insights  
+- 💼 **Income Generation**: Projects have generated a total of **$237.93 million**, showcasing their impact on driving revenue.  
+- 📈 **Process Improvement**: Delivered an income improvement of **$222.23 million**, reflecting the efficiency of optimization initiatives.  
+- 💰 **Working Capital Enhancement**: Achieved a working capital improvement of **$219.25 million**, strengthening financial resilience.  
+- 💡 **Cost Reduction**: Realized total savings of **$411.51 million**, highlighting effective resource utilization.  
+
+### Project Complexity  
+- **High Complexity**: 40 projects  
+- **Medium Complexity**: 29 projects  
+- **Low Complexity**: 30 projects  
+
+### Performance Highlights  
+- ✅ **Average Completion Rate**: **87%**, demonstrating strong progress and timely execution.  
+- 📊 **Project Status**:  
+  - **In Progress**: 25.3%  
+  - **On Hold**: 17.2%  
+
+### Tools & Technologies  
+- **Tools Used**: Tableau, Excel  
+- **Technologies**: Data visualization, project management analytics  
+
+### About the Dashboard  
+This dashboard was created to analyze a dataset of project management performance. It identifies potential risks, highlights project complexities, and tracks progress to ensure the success of each initiative.  
+
+Feel free to connect if you'd like to know more about this project or discuss how dashboards can transform your decision-making process!  
+![](Feet_mangment.PNG)
+
+---
+
+
+
+
+
 ### [Fleet Management Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop)
 
 
@@ -19,7 +59,7 @@ By focusing on these strategies, the business can build a loyal customer base an
 
 
 
-
+---
 
 
 
