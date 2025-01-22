@@ -52,7 +52,6 @@ This analysis highlights the effectiveness of influencer marketing and the impor
 
 ---
 
-**Tags**: #InfluencerMarketing #DataDriven #ROI #MarketingStrategy #DigitalMarketing #BusinessInsights
 
 
 ### [🌟 Project Management Dashboard – Driving Success through Insights 🌟](https://www.linkedin.com/posts/hegazy-ahmed_projectmanagement-dataanalytics-dashboarddesign-activity-7283580562982756352-FDs8?utm_source=share&utm_medium=member_desktop)
