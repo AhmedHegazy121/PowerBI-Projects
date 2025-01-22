@@ -42,13 +42,13 @@ The **Influencer Marketing** campaign was the best-performing initiative, delive
 1. **Regional Focus**: Africa demonstrated strong potential, making it a key region for future investments.  
 2. **Influencer Impact**: Leveraging trusted voices through influencer marketing drove significant engagement and revenue.  
 3. **ROI Consistency**: While the ROI was consistent across campaigns, there’s room for optimization to achieve even higher returns.  
-![](MarketingCampaign.png
-)
----
 
 
 ## **Conclusion**
 This analysis highlights the effectiveness of influencer marketing and the importance of regional strategies in maximizing ROI. By focusing on high-performing regions and innovative campaigns, brands can unlock greater growth opportunities.  
+
+![](MarketingCampaign.png)
+
 
 ---
 
