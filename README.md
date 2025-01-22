@@ -4,18 +4,18 @@
 
 ### [Marketing Campaign Performance Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_influencermarketing-datadriven-roi-activity-7287634522622357506-H82P?utm_source=share&utm_medium=member_desktop)
 
-# Influencer Marketing Campaign Insights
+### Influencer Marketing Campaign Insights
 
 This project analyzes the performance of an influencer marketing campaign, highlighting key metrics, regional performance, and actionable insights. Below is a summary of the findings.
 
----
+
 
 ## **Key Metrics**
 - **Total Revenue**: $42.54M  
 - **Total Spend**: $25.69M  
 - **Average ROI**: 0.68  
 
----
+
 
 ## **Regional Performance**
 The campaign's performance varied across regions, with **Africa** emerging as the top-performing region.  
@@ -29,17 +29,16 @@ The campaign's performance varied across regions, with **Africa** emerging as th
 | Oceania          | $5.1M           | $4.5M             |
 | South America    | $4.5M           | $4.1M             |
 
----
 
-## **Campaign Performance**
+
+### **Campaign Performance**
 The **Influencer Marketing** campaign was the best-performing initiative, delivering the highest ROI.  
 
 - **Influencer Marketing ROI**: 0.68  
 - Other campaigns showed consistent performance, with ROIs ranging between **0.60** and **0.68**.  
 
----
 
-## **Key Insights**
+### **Key Insights**
 1. **Regional Focus**: Africa demonstrated strong potential, making it a key region for future investments.  
 2. **Influencer Impact**: Leveraging trusted voices through influencer marketing drove significant engagement and revenue.  
 3. **ROI Consistency**: While the ROI was consistent across campaigns, there’s room for optimization to achieve even higher returns.  
