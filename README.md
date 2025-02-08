@@ -98,9 +98,9 @@ This document provides insights into user demographics and campaign acceptance r
 - AcceptedCmp4 has the highest acceptance rate among campaign types at 16.68%.
 
 This data can help in understanding user engagement and tailoring future campaigns to specific demographics for better acceptance rates.
-![]()
+![](Mr_Accecpted.png)
 
-
+----
 
 
 
