@@ -52,6 +52,56 @@ This analysis highlights the effectiveness of influencer marketing and the impor
 
 ---
 
+### User Campaign Acceptance Insights
+
+This document provides insights into user demographics and campaign acceptance rates based on the provided data.
+
+## Total Users
+- **Total Users**: 52.25K
+
+#### User Distribution by Country
+
+####  Total Accepted Campaigns
+- **Total Accepted Campaigns**: 1,001
+
+####  Percentage of Accepted Campaigns by Type
+- **AcceptedCmp4**: 16.68%
+- **AcceptedCmp3**: 16.28%
+- **AcceptedCmp5**: 16.28%
+- **AcceptedCmp1**: 14.39%
+- **AcceptedCmp2**: 3.00%
+
+#### Total Accepted Campaigns by Marital Status
+- **Married**: 654
+- **Together**: 560
+- **Single**: 480
+- **Divorced**: 222
+- **Widow**: 77
+- **Alone**: 3
+- **Absurd**: 2
+
+## Total Users by Education Level
+- **Graduation**: 1,127
+- **PhD**: 486
+- **Master**: 370
+- **2n Cycle**: 203
+- **Basic**: 54
+- **YOLO**: 2
+
+## Response Rate
+- **Response Rate**: 33.37%
+
+## Insights
+- The highest number of accepted campaigns is from married users (654).
+- Graduation-level educated users form the largest group (1,127).
+- The response rate for campaigns is 33.37%, indicating a moderate level of engagement.
+- AcceptedCmp4 has the highest acceptance rate among campaign types at 16.68%.
+
+This data can help in understanding user engagement and tailoring future campaigns to specific demographics for better acceptance rates.
+![]()
+
+
+
 
 
 ### [🌟 Project Management Dashboard – Driving Success through Insights 🌟](https://www.linkedin.com/posts/hegazy-ahmed_projectmanagement-dataanalytics-dashboarddesign-activity-7283580562982756352-FDs8?utm_source=share&utm_medium=member_desktop)
