@@ -50,8 +50,47 @@ This analysis highlights the effectiveness of influencer marketing and the impor
 ![](MarketingCampaign.png)
 
 
----
 
+
+---
+## [Superstore Sales overview Dashboard - Monthly comparison](https://github.com/AhmedHegazy121/PowerBI-Projects/blob/main/Pic/Superstore.pbix) 
+
+Superstore Sales Drop – Analyzing the Decline & Finding Solutions
+
+Looking at this **Superstore Sales Overview Dashboard**, one thing is clear: **December’s performance took a major hit** compared to November.
+
+## 🔎 Key Findings:
+- ❌ **Sales dropped by 29%** (from 352.46K to 83.83K).
+- ❌ **Profit declined by 12%** (from 35.47K to 8.48K).
+- ❌ **Total orders fell by 14%** (from 753 to 224).
+
+## 🛑 What’s causing the drop?
+### 📌 Orders are down across all segments:
+- **Home Office** (-30%)  
+- **Corporate** (-14%)  
+- **Consumer** (-9%)  
+
+### 📌 Technology sales declined the most (-20%), followed by:
+- **Office Supplies** (-5%)
+- **Furniture** (-1%)
+
+### 📌 Profitability concerns:
+- Some products, like the **Ibico EPX-21 Electric Binding System, are selling at a loss (-2929).**
+- Discounts or pricing issues may be hurting margins.
+
+## 💡 How to Fix It?
+✅ **Strategic Promotions:** Offer targeted discounts on high-margin products.  
+✅ **Inventory Check:** Ensure best-selling products are in stock.  
+✅ **Improve Marketing:** Increase engagement via email, ads & social media.  
+✅ **Reassess Pricing:** Adjust pricing strategies to avoid selling at a loss.  
+✅ **Competitor Analysis:** Stay competitive with pricing & offers.  
+
+## 📊 The lesson? 
+Regularly analyzing sales data helps **identify issues early and take action** to prevent revenue loss.
+
+![](Pic/Superstore.png)
+
+-----
 ### User Campaign Acceptance Insights
 
 This document provides insights into user demographics and campaign acceptance rates based on the provided data.
@@ -101,44 +140,8 @@ This data can help in understanding user engagement and tailoring future campaig
 ![](Mr_Accecpted.png)
 
 ----
-##[Superstore Sales overview Dashboard - Monthly comparison](https://github.com/AhmedHegazy121/PowerBI-Projects/blob/main/Pic/Superstore.pbix) 
 
-Superstore Sales Drop – Analyzing the Decline & Finding Solutions
 
-Looking at this **Superstore Sales Overview Dashboard**, one thing is clear: **December’s performance took a major hit** compared to November.
-
-## 🔎 Key Findings:
-- ❌ **Sales dropped by 29%** (from 352.46K to 83.83K).
-- ❌ **Profit declined by 12%** (from 35.47K to 8.48K).
-- ❌ **Total orders fell by 14%** (from 753 to 224).
-
-## 🛑 What’s causing the drop?
-### 📌 Orders are down across all segments:
-- **Home Office** (-30%)  
-- **Corporate** (-14%)  
-- **Consumer** (-9%)  
-
-### 📌 Technology sales declined the most (-20%), followed by:
-- **Office Supplies** (-5%)
-- **Furniture** (-1%)
-
-### 📌 Profitability concerns:
-- Some products, like the **Ibico EPX-21 Electric Binding System, are selling at a loss (-2929).**
-- Discounts or pricing issues may be hurting margins.
-
-## 💡 How to Fix It?
-✅ **Strategic Promotions:** Offer targeted discounts on high-margin products.  
-✅ **Inventory Check:** Ensure best-selling products are in stock.  
-✅ **Improve Marketing:** Increase engagement via email, ads & social media.  
-✅ **Reassess Pricing:** Adjust pricing strategies to avoid selling at a loss.  
-✅ **Competitor Analysis:** Stay competitive with pricing & offers.  
-
-## 📊 The lesson? 
-Regularly analyzing sales data helps **identify issues early and take action** to prevent revenue loss.
-
-![](Pic/Superstore.png)
-
----
 
 
 
