@@ -140,8 +140,14 @@ This data can help in understanding user engagement and tailoring future campaig
 ![](Mr_Accecpted.png)
 
 ----
+### Insights & Use Cases
+- Helps identify top-performing regions and customer behavior trends over time.
+- Assists in tracking progress toward sales targets and profitability goals.
+- Enables data-driven decision-making for regional marketing strategies.
+- Highlights customer satisfaction areas that need improvement.
+![](Pic/SalesTarget.png)
 
-
+-----
 
 
 
