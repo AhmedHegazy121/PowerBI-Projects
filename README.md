@@ -91,6 +91,26 @@ Regularly analyzing sales data helps **identify issues early and take action** t
 ![](Pic/Superstore.png)
 
 -----
+
+### [Paid Digital Marketing Campaigns Performance Analysis](https://www.linkedin.com/posts/hegazy-ahmed_powerbi-datanalysis-dashbord-activity-7307875382207143936-jZjM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA) 
+
+
+
+**Use Case & Benefits:**
+
+✅ Helps marketing teams track ad performance and budget efficiency.
+
+✅ Enables data-driven decision-making for optimizing digital marketing strategies.
+
+✅ Identifies high-performing ad channels and areas for improvement.
+
+----
+
+This Power BI dashboard provides a powerful, interactive way to analyze and enhance digital marketing campaigns. 🚀
+
+![](Digital.png)
+
+-----
 ### User Campaign Acceptance Insights
 
 This document provides insights into user demographics and campaign acceptance rates based on the provided data.
