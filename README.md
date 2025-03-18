@@ -108,7 +108,7 @@ Regularly analyzing sales data helps **identify issues early and take action** t
 
 This Power BI dashboard provides a powerful, interactive way to analyze and enhance digital marketing campaigns. 🚀
 
-![](Digital.png)
+![](Pic/Digital.png)
 
 -----
 ### User Campaign Acceptance Insights
