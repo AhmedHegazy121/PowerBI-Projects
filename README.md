@@ -1,6 +1,19 @@
 # PowerBI-Projects
 
+### [Healthcare Data—Patient wait list  Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_powerbi-dataanalysis-healthcare-activity-7311846659968110593-VTxH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA)
 
+
+### Project Goals
+
+1. Track the current status of the patient waiting list 
+
+2. Analyze the historical monthly trend of waiting in the inpatient and outpatient categories 
+
+3. Detailed specialty level and age profile analysis
+
+![](Pic/Hospital.png)
+
+-----
 
 ### [Marketing Campaign Performance Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_influencermarketing-datadriven-roi-activity-7287634522622357506-H82P?utm_source=share&utm_medium=member_desktop)
 
